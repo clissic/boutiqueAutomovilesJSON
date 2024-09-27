@@ -1,6 +1,7 @@
 [
     {
         "id": "0",
+        "category": "autos",
         "featured": true,
         "brand": "Volkswagen",
         "model": "Gol",
@@ -25,6 +26,7 @@
     },
     {
         "id": "1",
+        "category": "autos",
         "featured": true,
         "brand": "Chevrolet",
         "model": "Agile",
@@ -49,6 +51,7 @@
     },
     {
         "id": "2",
+        "category": "autos",
         "featured": true,
         "brand": "Renault",
         "model": "Sandero",
@@ -73,6 +76,7 @@
     },
     {
         "id": "3",
+        "category": "autos",
         "featured": false,
         "brand": "BYD",
         "model": "F0",
@@ -97,6 +101,7 @@
     },
     {
         "id": "4",
+        "category": "autos",
         "featured": false,
         "brand": "BYD",
         "model": "Seagul",
@@ -121,6 +126,7 @@
     },
     {
         "id": "5",
+        "category": "autos",
         "featured": false,
         "brand": "Chery",
         "model": "Tiggo",
@@ -145,6 +151,7 @@
     },
     {
         "id": "6",
+        "category": "autos",
         "featured": false,
         "brand": "Volkswagen",
         "model": "Golf",
@@ -169,6 +176,7 @@
     },
     {
         "id": "7",
+        "category": "autos",
         "featured": false,
         "brand": "Peugeot",
         "model": "208",
@@ -193,6 +201,7 @@
     },
     {
         "id": "8",
+        "category": "autos",
         "featured": false,
         "brand": "Renault",
         "model": "Sandero R.S.",
@@ -217,6 +226,7 @@
     },
     {
         "id": "9",
+        "category": "autos",
         "featured": false,
         "brand": "Nissan",
         "model": "Sentra",
@@ -241,6 +251,7 @@
     },
     {
         "id": "10",
+        "category": "motos",
         "featured": true,
         "brand": "Honda",
         "model": "CBR 500R",
@@ -265,6 +276,7 @@
     },
     {
         "id": "11",
+        "category": "motos",
         "featured": false,
         "brand": "Yamaha",
         "model": "MT-07",
@@ -289,6 +301,7 @@
     },
     {
         "id": "12",
+        "category": "motos",
         "featured": true,
         "brand": "Kawasaki",
         "model": "Ninja 400",
@@ -313,6 +326,7 @@
     },
     {
         "id": "13",
+        "category": "motos",
         "featured": false,
         "brand": "Suzuki",
         "model": "GSX-S750",
@@ -337,6 +351,7 @@
     },
     {
         "id": "14",
+        "category": "motos",
         "featured": false,
         "brand": "BMW",
         "model": "G 310 R",
@@ -361,6 +376,7 @@
     },
     {
         "id": "15",
+        "category": "motos",
         "featured": false,
         "brand": "Ducati",
         "model": "Scrambler Icon",
@@ -385,6 +401,7 @@
     },
     {
         "id": "16",
+        "category": "motos",
         "featured": true,
         "brand": "Triumph",
         "model": "Street Triple",
@@ -409,6 +426,7 @@
     },
     {
         "id": "17",
+        "category": "motos",
         "featured": false,
         "brand": "Harley-Davidson",
         "model": "Iron 883",
@@ -433,6 +451,7 @@
     },
     {
         "id": "18",
+        "category": "motos",
         "featured": false,
         "brand": "Royal Enfield",
         "model": "Himalayan",
@@ -457,6 +476,7 @@
     },
     {
         "id": "19",
+        "category": "motos",
         "featured": false,
         "brand": "KTM",
         "model": "Duke 390",
