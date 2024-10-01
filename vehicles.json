@@ -535,11 +535,11 @@
         "financing": "100%",
         "fuel": "Nafta",
         "imgs": [
-            "./assets/img/vehicles/19/img1.webp",
-            "./assets/img/vehicles/19/img2.webp",
-            "./assets/img/vehicles/19/img3.webp",
-            "./assets/img/vehicles/19/img4.webp",
-            "./assets/img/vehicles/19/img5.webp"
+            "./assets/img/vehicles/20/img1.webp",
+            "./assets/img/vehicles/20/img2.webp",
+            "./assets/img/vehicles/20/img3.webp",
+            "./assets/img/vehicles/20/img4.webp",
+            "./assets/img/vehicles/20/img5.webp"
         ],
         "currency": "U$D",
         "price": 8500,
